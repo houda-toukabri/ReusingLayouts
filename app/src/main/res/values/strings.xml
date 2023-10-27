@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reusing Layouts</string>
+    <string name="hello">Hello World!</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="logo">Logo</string>
+</resources>
